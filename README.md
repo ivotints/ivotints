@@ -11,8 +11,8 @@
 | Project Name      | Description | Tech Stack | Repo |
 |-------------------|-------------|------------|------|
 | **Minihell**      | A custom shell replicating Bash functionality. | C, Shell, Linux | [GitHub Link](https://github.com/ivotints/minishell) |
-| **Cub3D**         | A 3D raycasting game inspired by Wolfenstein 3D. | C, MiniLibX, Graphics | [GitHub Link](https://github.com/ivotints/cub3d) |
-| **Full-Stack Website** | A responsive full-stack website using Vanilla JS. | HTML, CSS, JS, API | [GitHub Link](https://github.com/ivotints/fullstack-website) |
+| **Cub3D**         | A 3D raycasting game inspired by Wolfenstein 3D. | C, MiniLibX, Graphics | [GitHub Link](https://github.com/ivotints/cube3d) |
+| **Full-Stack Website** | A responsive full-stack website using Vanilla JS. | HTML, CSS, JS, API | [GitHub Link](https://github.com/0xSuitQ/ft_transcendence) |
 
 ---
 
