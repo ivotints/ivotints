@@ -18,4 +18,4 @@
 ---
 
 ### 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/igor-votintsev) | [GitHub](https://github.com/ivotints)
+[LinkedIn](https://linkedin.com/in/igor-votintsev)
