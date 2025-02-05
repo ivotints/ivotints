@@ -14,7 +14,7 @@
 | **Gomoku AI**     | An intelligent Gomoku game with advanced AI using minimax algorithm and optimized heuristics | Python, C++, AI | ![Gomoku Demo](./assets/gomoku.gif) | [GitHub Link](https://github.com/ivotints/gomoku) |
 | **Minishell**     | A custom shell replicating Bash functionality. | C, Shell, Linux | ![Minishell Demo](./assets/minishell.gif) | [GitHub Link](https://github.com/ivotints/minishell) |
 | **Cub3D**         | A 3D raycasting game inspired by Wolfenstein 3D. | C, MiniLibX, Graphics | ![Cub3D Demo](./assets/cub3D.gif) | [GitHub Link](https://github.com/ivotints/cube3d) |
-| **Full-Stack Website** | A responsive full-stack website using Vanilla JS. | HTML, CSS, JS, API | ![Website Demo](./assets/Pong.gif) | [GitHub Link](https://github.com/0xSuitQ/ft_transcendence) |
+| **Full-Stack Website** | A responsive full-stack website using Vanilla JS. | HTML, CSS, JS, API | ![Website Demo](./assets/Pong.gif) | [GitHub Link](https://github.com/ivotints/ft_transcendence) |
 
 ---
 
