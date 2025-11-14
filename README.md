@@ -1,11 +1,11 @@
-# Hi there, I'm Igor Votintsev! 👋
-### 🚀 Software Developer | AI Enthusiast | 42 Prague Graduate
+# Hi there, I'm Igor Votintsev!
+### Software Developer | 42 Prague Graduate
 
 - I completed **42 Prague** in record time (6 months).
-
+- Work in Skoda as C++ developer.
 ---
 
-## 🔥 My Projects
+## My Projects
 
 | Project Name      | Description | Tech Stack | GIF Showcase | Repo |
 |-------------------|-------------|------------|--------------|------|
@@ -18,5 +18,5 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 [LinkedIn](https://linkedin.com/in/igor-votintsev)
